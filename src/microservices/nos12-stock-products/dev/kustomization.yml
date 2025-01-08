@@ -9,7 +9,5 @@ resources:
 - ../base
 
 images:
-- name: /nos12-stock-products
-  newTag: 29f886a
 - name: nuttaporn1449/nos12-stock-products
-  newTag: 581aca1
+  newTag: 29f886a
