@@ -1,0 +1,1 @@
+# nos12-stock-deployment
