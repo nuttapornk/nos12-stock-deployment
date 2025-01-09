@@ -10,4 +10,4 @@ resources:
 
 images:
 - name: nuttaporn1449/nos12-stock-products
-  newTag: 43b15ef
+  newTag: a56f8e0
